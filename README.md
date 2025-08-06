@@ -83,4 +83,5 @@ fake-news-detection/
 ```
 ### 🤝 Credits
 Developed by Mohammed Ahmed Mansour
+
 Under guidance from Elevvo Internship Program
